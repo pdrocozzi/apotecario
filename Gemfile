@@ -60,3 +60,15 @@ group :development do
   # gem "spring"
 end
 
+
+gem "devise", "~> 4.9"
+
+gem "pundit", "~> 2.5"
+
+gem "httparty", "~> 0.22.0"
+
+gem "pg_search", "~> 2.3"
+
+gem "sidekiq", "~> 8.0"
+
+gem "faker", "~> 3.5"
